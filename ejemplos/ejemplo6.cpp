@@ -10,7 +10,7 @@ public:
 };
 
 int main() {
-    Temperatura t(36.6);
+    Temperatura t(36.7);
     double valor = t;
     cout << "Temperatura: " << valor << " °C" << endl;
 }
